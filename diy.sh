@@ -5,7 +5,7 @@ git clone https://github.com/kenzok8/openwrt-packages
 git clone https://github.com/Lienol/openwrt-package
 git clone https://github.com/fw876/helloworld
 git clone https://github.com/vernesong/OpenClash
-git clone https://github.com/destan19/OpenAppFilter
+git clone https://github.com/Lienol/openwrt-OpenAppFilter
 git clone https://github.com/rufengsuixing/luci-app-adguardhome
 git clone https://github.com/pymumu/luci-app-smartdns
 git clone https://github.com/jerrykuku/luci-theme-argon
